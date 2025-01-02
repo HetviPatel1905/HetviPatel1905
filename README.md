@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 🌱 2025 Goals = To contribute to more to Open Source projects 
+- 🌱 2025 Goals = To contribute more to Open Source projects 
 
 - 👨‍💻 All of my projects are available at [https://github.com/HetviPatel1905](https://github.com/HetviPatel1905)
 

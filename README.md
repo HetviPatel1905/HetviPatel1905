@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HetviPatel1905](https://github.com/HetviPatel1905)
 
-- 💬 Ask me about **HTML/CSS, Git, GitHub, VSCode, Figma, JavaScript**
+- 💬 Ask me about **HTML/CSS, Git, GitHub, VSCode, Figma, JavaScript, Python**
 
 - 📫 How to reach me **pathe1905@gmail.com**
 

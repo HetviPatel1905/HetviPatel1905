@@ -18,8 +18,6 @@
 ## 📫 Connect with Me
 [![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:pathe1905@gmail.com)
 
-## 📊 GitHub Stats
-![Hetvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HetviPatel1905&show_icons=true&theme=radical)
 
 
 

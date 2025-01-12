@@ -1,11 +1,13 @@
-# Hi there, I'm Hetvi Patel aka Vi👋
+<h1 align="center">Hi 👋, I'm Hetvi Patel aka Vi</h1>
 
 ## About Me
-- 🌱 I’m currently working on [link]https://github.com/HetviPatel1905/se_project_todo-app
+- 🔭  I’m currently working on [link]https://github.com/HetviPatel1905/se_project_todo-app
 - 🌱 I’m currently learning OOP programming in JavaScript
+- 👨‍💻 All of my projects are available at [https://github.com/HetviPatel1905](https://github.com/HetviPatel1905)
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about HTML, CSS, Javascript, Git, Github, Python
-- ⚡ Fun fact: I read a lot of books, but I’m pretty sure I’m just collecting imaginary friends at this point. (2025 goals: 50 books to read)
+- ⚡ Fun fact: I read a lot of books, but I’m pretty sure I’m just collecting imaginary friends at this point. (2025 goals: 50books to read)
+-  - 📫 How to reach me **pathe1905@gmail.com**
 
 ## 🛠️ Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)

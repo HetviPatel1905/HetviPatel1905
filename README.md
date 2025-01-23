@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hetvi Patel aka Vi</h1>
 
 ## About Me
-- Portfolio = ![link](https://hetvipatel1905.github.io/Portfolio/)
+- Portfolio = [![Link](https://hetvipatel1905.github.io/Portfolio/)
 - 🔭  I’m currently working on [link]https://github.com/HetviPatel1905/se_project_todo-app
 - 🌱 I’m currently learning OOP programming in JavaScript
 - 👨‍💻 All of my projects are available at [https://github.com/HetviPatel1905](https://github.com/HetviPatel1905)

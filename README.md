@@ -2,7 +2,7 @@
 
 ## About Me
 - ⚡ My Portfolio = [Link to my portfolio website](https://hetvipatel1905.github.io/Portfolio/)
-- 🔭  I’m currently working on [Github](https://github.com/HetviPatel1905/se_project_react])
+- 🔭  I’m currently working on Github [https://github.com/HetviPatel1905/se_project_react]
 - 🌱 I’m currently learning OOP programming in JavaScript
 - 👨‍💻 All of my projects are available at [https://github.com/HetviPatel1905](https://github.com/HetviPatel1905)
 - 👯 I’m looking to collaborate on open source projects

@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I read a lot of books, but I’m pretty sure I’m just collecting imaginary friends at this point.
 - 📫 How to reach me **pathe1905@gmail.com**
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)

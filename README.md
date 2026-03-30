@@ -1,27 +1,36 @@
-<h1 align="center">Hi 👋, I'm Hetvi Patel aka Vi</h1>
+# Hey there, I'm Hetvi 👋
+ 
+🎓 **Cybersecurity Student** @ National University  
+🔐 Focused on **Network Security** & **Malware Analysis**  
+📍 Building my skills one lab at a time
 
 ## About Me
-- ⚡ My Portfolio = [Link to my portfolio website](https://hetvipatel1905.github.io/Portfolio/)
-- 🔭  I’m currently working on Github https://github.com/HetviPatel1905/se_project_react
-- 🌱 I’m currently learning React
-- 👨‍💻 All of my projects are available at [https://github.com/HetviPatel1905](https://github.com/HetviPatel1905)
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about HTML, CSS, Javascript, Git, Github, Python
-- ⚡ Fun fact: I read a lot of books, but I’m pretty sure I’m just collecting imaginary friends at this point.
-- 📫 How to reach me **pathe1905@gmail.com**
+I'm an undergraduate student pursuing a Bachelor's in Cybersecurity with a passion for understanding how attacks work — and how to stop them. I'm especially drawn to network security, and I document my learning journey publicly so others can follow along.
+ 
+- 🌱 Currently learning: **Linux**
+- 🎯 Practicing on: **TryHackMe**
+- 📝 I post weekly updates on what I'm learning on [LinkedIn](#)
+- 💬 Ask me about: networking fundamentals, linux
+- 🚀 Goal: Land a role in cybersecurity after graduation
+ 
 
-## 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
+## 🛠️ Tools & Skills
+ 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+ 
 
 ## 📫 Connect with Me
+## 🤝 Connect With Me
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
 [![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:pathe1905@gmail.com)
 
 

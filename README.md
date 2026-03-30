@@ -10,7 +10,7 @@ I'm an undergraduate student pursuing a Bachelor's in Cybersecurity with a passi
 - 🌱 Currently learning: **Linux**
 - 🎯 Practicing on: **TryHackMe**
 - 📝 I post weekly updates on what I'm learning on [LinkedIn](#)
-- 💬 Ask me about: networking fundamentals, linux
+- 💬 Ask me about: Networking & Security Fundamentals, Linux & Windows Commands
 - 🚀 Goal: Land a role in cybersecurity after graduation
  
 

@@ -1,7 +1,7 @@
 # Hey there, I'm Hetvi 👋
  
 🎓 **Cybersecurity Student** @ National University  
-🔐 Focused on **Network Security** & **Malware Analysis**  
+🔐 Focused on **Network Security**
 📍 Building my skills one lab at a time
 
 ## About Me

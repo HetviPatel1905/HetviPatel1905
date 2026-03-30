@@ -50,13 +50,13 @@ I'm an undergraduate student pursuing a Bachelor's in Cybersecurity with a passi
 ## 🤝 Connect With Me 
 <p align="left">
   <a href="https://linkedin.com/in/YOUR_PROFILE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=social&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
-  <a href="https://tryhackme.com/p/hetvi1905" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=social&logo=tryhackme&logoColor=white" />
+  <a href="https://tryhackme.com/p/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>&nbsp;
-  <a href="mailto:pathe1905@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail&logoColor=white" />
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 

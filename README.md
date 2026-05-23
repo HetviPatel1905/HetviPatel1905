@@ -1,61 +1,41 @@
 # 👋 Hey there, I'm Hetvi
 
-🎓 Cybersecurity Student @ National University  
-🌐 Aspiring Network Engineer & Security Engineer  
-🔐 Focused on building strong foundations in networking, systems, and cybersecurity  
-
----
+<sub>🎓 Cybersecurity Student @ National University</sub>  
+<sub>🌐 Aspiring Network Engineer & Security Engineer</sub>  
+<sub>🔐 Focused on networking, systems, and cybersecurity fundamentals</sub>  
 
 ## 🧠 About Me
 
+<sub>
 I'm an undergraduate cybersecurity student passionate about how networks operate, how systems communicate, and how security is enforced across infrastructure.
+</sub>
 
-My focus is shifting toward **Network Engineering and Security Engineering**, where I enjoy learning how data flows through systems, how networks are designed, and how to defend them against real-world threats.
+<sub>
+My focus is shifting toward Network Engineering and Security Engineering, where I study how data moves through systems, how networks are built, and how they are defended in real environments.
+</sub>
 
-I actively build my skills through hands-on labs, troubleshooting practice, and continuous learning to bridge the gap between academic knowledge and real IT environments.
-
----
+<sub>
+I actively build hands-on skills through labs, troubleshooting, and continuous learning to bridge the gap between theory and real-world IT systems.
+</sub>
 
 ## 🌱 Currently Learning
-- Linux (commands, system administration, permissions)
-- Networking Fundamentals (TCP/IP, DNS, routing, subnetting)
-- Security Fundamentals (basic defensive concepts)
-
----
+<sub>• Linux (commands, system administration, permissions)</sub>  
+<sub>• Networking Fundamentals (TCP/IP, DNS, routing, subnetting)</sub>  
+<sub>• Security Fundamentals (defensive concepts)</sub>  
 
 ## 🎯 Hands-on Practice
-- TryHackMe labs
-- Home lab setups
-- Networking & system troubleshooting exercises
-
----
+<sub>• TryHackMe labs</sub>  
+<sub>• Home lab setups</sub>  
+<sub>• Networking & troubleshooting exercises</sub>  
 
 ## 🛠 Skills I'm Developing
-- Network troubleshooting  
-- Windows & Linux system navigation  
-- Basic security concepts  
-- IT support fundamentals  
-- Packet flow & infrastructure understanding  
-
----
-
-## 📝 Content & Learning
-I document my learning journey and post weekly updates on LinkedIn to track progress and stay consistent.
-
----
-
-## 💬 Ask Me About
-- Networking fundamentals  
-- Linux & Windows commands  
-- Basic cybersecurity concepts  
-- Learning IT from scratch  
-
----
+<sub>• Network troubleshooting</sub>  
+<sub>• Windows & Linux systems</sub>  
+<sub>• IT support fundamentals</sub>  
+<sub>• Packet flow understanding</sub>  
 
 ## 🚀 Goal
-To grow into a **Network Engineer or Security Engineer role**, building and securing real-world infrastructure in enterprise environments.
-
----
+<sub>To become a Network Engineer or Security Engineer building and securing real-world infrastructure.</sub>
 
 
 ## 🛠️ Tools & Skills 

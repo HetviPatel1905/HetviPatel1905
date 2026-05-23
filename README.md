@@ -31,7 +31,6 @@ I actively build my skills through hands-on labs, troubleshooting practice, and 
 
 ## 🚀 Goal
 To grow into a **Network Engineer or Security Engineer role**, building and securing real-world infrastructure in enterprise environments.
-<sub>To become a Network Engineer or Security Engineer building and securing real-world infrastructure.</sub>
 
 
 ## 🛠️ Tools & Skills 

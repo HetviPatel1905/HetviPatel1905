@@ -68,7 +68,7 @@ To grow into a **Network Engineer or Security Engineer role**, building and secu
 
 ## 🤝 Connect With Me 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_PROFILE" target="_blank">
+  <a href="https://www.linkedin.com/in/hetvi-patel-7217163b8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
   <a href="https://tryhackme.com/p/hetvi1905" target="_blank">

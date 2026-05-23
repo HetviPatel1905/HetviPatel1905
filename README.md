@@ -1,18 +1,22 @@
 # Hey there, I'm Hetvi 👋
  
-🎓 **Cybersecurity Student** @ National University  
-🔐 Focused on **Network Security**
-📍 Building my skills one lab at a time
+Hey there, I'm Hetvi 👋
 
-## About Me
-I'm an undergraduate student pursuing a Bachelor's in Cybersecurity with a passion for understanding how attacks work — and how to stop them. I'm especially drawn to network security, and I document my learning journey publicly so others can follow along.
- 
-- 🌱 Currently learning: **Linux**
-- 🎯 Practicing on: **TryHackMe**
-- 📝 I post weekly updates on what I'm learning on [LinkedIn](#)
-- 💬 Ask me about: Networking & Security Fundamentals, Linux & Windows Commands
-- 🚀 Goal: Land a role in cybersecurity after graduation
- 
+🎓 *Cybersecurity student* @ National University
+🌐 Focused on *Network Engineering & Security Engineering*
+🔐 Building hands-on skills in networking, systems, and defensive security
+
+About Me
+
+I’m an undergraduate cybersecurity student passionate about how networks are built, secured, and attacked. My main interest is in network engineering and security engineering, with a focus on understanding infrastructure, traffic flow, and real-world defensive systems.
+
+I actively build my skills through labs, documentation, and hands-on practice to bridge the gap between theory and real-world IT/security environments.
+
+🌱 Currently learning: Linux, Networking Fundamentals
+🎯 Practicing on: TryHackMe, home labs
+💬 Ask me about: Networking, Security Fundamentals, Linux & Windows troubleshooting
+🚀 Goal: Become a Network Engineer / Security Engineer after graduation
+
 
 ## 🛠️ Tools & Skills 
 <table>

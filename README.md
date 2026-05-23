@@ -4,8 +4,6 @@
 🌐 Aspiring Network Engineer & Security Engineer  
 🔐 Focused on building strong foundations in networking, systems, and cybersecurity  
 
----
-
 ## 🧠 About Me
 
 I'm an undergraduate cybersecurity student passionate about how networks operate, how systems communicate, and how security is enforced across infrastructure.
@@ -14,21 +12,15 @@ My focus is shifting toward **Network Engineering and Security Engineering**, wh
 
 I actively build my skills through hands-on labs, troubleshooting practice, and continuous learning to bridge the gap between academic knowledge and real IT environments.
 
----
-
 ## 🌱 Currently Learning
 - Linux (commands, system administration, permissions)
 - Networking Fundamentals (TCP/IP, DNS, routing, subnetting)
 - Security Fundamentals (basic defensive concepts)
 
----
-
 ## 🎯 Hands-on Practice
 - TryHackMe labs
 - Home lab setups
 - Networking & system troubleshooting exercises
-
----
 
 ## 🛠 Skills I'm Developing
 - Network troubleshooting  
@@ -36,21 +28,6 @@ I actively build my skills through hands-on labs, troubleshooting practice, and 
 - Basic security concepts  
 - IT support fundamentals  
 - Packet flow & infrastructure understanding  
-
----
-
-## 📝 Content & Learning
-I document my learning journey and post weekly updates on LinkedIn to track progress and stay consistent.
-
----
-
-## 💬 Ask Me About
-- Networking fundamentals  
-- Linux & Windows commands  
-- Basic cybersecurity concepts  
-- Learning IT from scratch  
-
----
 
 ## 🚀 Goal
 To grow into a **Network Engineer or Security Engineer role**, building and securing real-world infrastructure in enterprise environments.
